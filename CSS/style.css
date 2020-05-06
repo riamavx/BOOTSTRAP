@@ -23,11 +23,12 @@
     max-width: 50px;
 }
 
+.link--sobre{
+    color:rgb(66, 3, 47) ;
+}
+
 .link--sobre:hover{
-    color: rgb(207, 118, 180);
+    color: rgb(161, 20, 119);
 
 }
 
-main{
-    background-color:#7E459B;
-}
