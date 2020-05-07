@@ -1,5 +1,5 @@
 .bg-roxo{
-    background-color:#7E459B;
+    background-color: #2a9d8f;
     ;
 
     
@@ -24,11 +24,21 @@
 }
 
 .link--sobre{
-    color:rgb(66, 3, 47) ;
+    color:#003049 ;
 }
 
 .link--sobre:hover{
-    color: rgb(161, 20, 119);
+    color: #e9c46a;
 
+}
+
+.img-card--bla{
+    width: 280px;
+    height: 100px;
+    margin-top: 10px;
+}
+
+a{
+    color:inherit ;
 }
 
